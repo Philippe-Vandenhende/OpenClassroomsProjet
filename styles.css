@@ -6,3 +6,9 @@ h2 {
     color: blue;
     font-style: italic;
 }
+
+h3 {
+    color: rgb(50, 209, 50);
+    font-style: italic;
+    text-decoration: underline;
+}
